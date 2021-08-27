@@ -19,7 +19,6 @@
 ### 1. [PodoMarket](https://github.com/zool2/PodoMarket)
 
 > 당근마켓 팬앱 (개인 프로젝트)
-> 개발 기간 : 2019/07/01 ~ 2019/08/31
 > 
 > 유튜브 링크 첨부
 > 
