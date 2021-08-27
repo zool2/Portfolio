@@ -14,7 +14,7 @@
 
 </br>
 
-## 📌 Project
+## 📌 Projects
 
 ### 1. [PodoMarket](https://github.com/zool2/PodoMarket)
 
