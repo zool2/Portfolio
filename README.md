@@ -6,6 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/52398346/131293181-05ee50a7-36c1-423f-b241-c9c397b3b54d.png" width="300">
 
+>학력 : 울산대학교 식품영양학과
+>
+>취미 : 패션 트랜드 검색, 사진 찍기, 외국 팝/힙합 감상, 오버워치, Home Cook 
 
 </br>
 
