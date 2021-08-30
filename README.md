@@ -18,7 +18,10 @@
 
 ## 📌 Contact
 
+- Phone : 010-5622-4372
+
 - Email : jurije1993@gmail.com
+
 - GitHub : https://github.com/zool2
 
 </br>
