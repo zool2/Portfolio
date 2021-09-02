@@ -37,6 +37,6 @@
 > https://youtu.be/0c7PVBdwEuk ( 포도마켓 Simulator Video )
 > 
 > 기술 스택 : 
-> Swift / Firebase / 
+> Swift / Firebase / 카카오 우편번호 API
 > 
 > [프로젝트 상세 설명](https://github.com/zool2/PodoMarket) 참고
