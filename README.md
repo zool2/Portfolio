@@ -34,7 +34,7 @@
 
 > 당근마켓 팬앱 (개인 프로젝트)
 > 
-> 유튜브 링크 첨부
+> https://youtu.be/0c7PVBdwEuk ( 포도마켓 Simulator Video )
 > 
 > 기술 스택 : 
 > Swift / Firebase / 
