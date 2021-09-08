@@ -4,7 +4,8 @@
 
 ## 📌 Intro
 
-<img src="https://user-images.githubusercontent.com/52398346/131293181-05ee50a7-36c1-423f-b241-c9c397b3b54d.png" width="300">
+<img src="https://user-images.githubusercontent.com/52398346/132439409-fcda4ead-cf14-4046-91a3-383cd7b03f0e.png" width="300">
+
 
 >이름 : 정주리
 >
